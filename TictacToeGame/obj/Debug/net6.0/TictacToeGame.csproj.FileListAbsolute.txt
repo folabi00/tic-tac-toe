@@ -1,0 +1,15 @@
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\bin\Debug\net6.0\TictacToeGame.exe
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\bin\Debug\net6.0\TictacToeGame.deps.json
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\bin\Debug\net6.0\TictacToeGame.runtimeconfig.json
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\bin\Debug\net6.0\TictacToeGame.dll
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\bin\Debug\net6.0\TictacToeGame.pdb
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\TictacToeGame.csproj.AssemblyReference.cache
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\TictacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\TictacToeGame.AssemblyInfoInputs.cache
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\TictacToeGame.AssemblyInfo.cs
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\TictacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\TictacToeGame.dll
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\refint\TictacToeGame.dll
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\TictacToeGame.pdb
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\TictacToeGame.genruntimeconfig.cache
+C:\Users\olubu\source\repos\TictacToeGame\TictacToeGame\obj\Debug\net6.0\ref\TictacToeGame.dll
